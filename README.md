@@ -1,2 +1,2 @@
 # Natural_Language_Processing
-Repository for storing neural network application on natural language processing
+This repository contains models I trained and used for a Natural Language Processing course at Southern Methodist University's Master of Science in Data Science program. Models used include Uni-Directional and Bi-Directional RNN, GRU, LSTM, and Universal Sentence Encoder models appplied to classification problems, including named-entity recognitiona and sentiment analysis.
