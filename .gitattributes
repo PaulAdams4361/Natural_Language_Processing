@@ -1,3 +1,4 @@
 *.HTML linguist-language=Python
+*.ipynb linguist-language=Python
 *.python linguist-detectable=true
 *.html linguist-detectable=false
