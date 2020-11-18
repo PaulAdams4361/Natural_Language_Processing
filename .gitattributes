@@ -1,3 +1,1 @@
-# override linguist - ignore documentation
-reports/* linguist-documentation
 *.hmtl linguist-language=Python
